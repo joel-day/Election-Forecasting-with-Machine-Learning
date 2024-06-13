@@ -6,7 +6,7 @@
 # What is this all about?
 This project establishes the positive correlation between financial contributions from individuals and vote share. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. Results have demonstrated that a model, excluding polling data and knowledge of the candidates’ state, can predict which 2020 candidates will obtain 50% vote share with an F1 score of 81%.
 
-# Model Features
+#### Model Features
 Along with the age, incumbency, and party of the candidate, the following features will be used:
 
 ### Contributions from Individuals and Multi-Candidate Committee Participation (FEC)
