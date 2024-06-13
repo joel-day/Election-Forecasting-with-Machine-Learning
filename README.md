@@ -2,9 +2,6 @@
 # Joel Raymond Day 
 ## https://www.linkedin.com/in/joelrday/
 
-# Navigatating the GitHub
-## Python code for this project is split into two pieces, one for data acquisition and another for the processing and modeling. The first python script '(1)_Senate_reults.ipynb', downloads the data using webscraping and three different API's. It dpends on the following: '1_candidate_ages.xlsx', '1_state_mapping.xlsx', and the 1_months folder which contains the contribuion data. The output of the first scipt is the '2_senate_results.xlsx' file that holds all of the raw data. Take a peak! It also doubles as the input of the second python script '(2)_EDA_Preprocessing_&_Modeling'. The 2_display_states folder is needed for the U.S. map visuals, but it is optional. The models are downloaded as .pkl files. 
-
 # What is this all about?
 The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. Results have demonstrated that a model, excluding polling data and knowledge of the candidates’ state, can predict which 2020 candidates will obtain 50% vote share with an F1 score of 81%.
 
@@ -20,3 +17,11 @@ Social demographics are also additive to election models (Myilvahanan et al., 20
 ### Economy Indicator - Unemployment
 Both Kennedy et al. (2017) and Takashi (1981) warn about the poor performance of economic indicators, however, employment and inflation may be weak exceptions. Takashi found that employment was predictive, and Kennedy et al. found that inflation was predictive. I included unemployment because it varies more across the sample elections.  
 
+# Navigatating the GitHub
+Python code for this project is contained in two scripts, one for data acquisition and another for the visuals, pre-processing, and modeling. 
+
+### Script 1
+'(1)_Senate_reults.ipynb' downloads the data using webscraping and three different API's. It dpends on the following: '1_candidate_ages.xlsx', '1_state_mapping.xlsx', and the 1_months folder which contains the contribuion data. The output of the first scipt is the '2_senate_results.xlsx' file that holds all of the raw data. Take a peak! It also doubles as the input of the second python script. 
+
+### Script 2
+'(2)_EDA_Preprocessing_&_Modeling' as the name suggests trains the models. It depends on the The 2_display_states folder for the U.S. map visuals, but these are optional. The models are downloaded as .pkl files and the visuals as .png files. 
