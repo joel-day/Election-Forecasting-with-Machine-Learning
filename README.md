@@ -1,4 +1,5 @@
-# Buying Elections - Joel Raymond Day - https://www.linkedin.com/in/joelrday/
+# Buying Elections - Joel Raymond Day
+### https://www.linkedin.com/in/joelrday/
 
 # What is this all about?
 The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. Results have demonstrated that a model, excluding polling data and knowledge of the candidates’ state, can predict which 2020 candidates will obtain 50% vote share with an F1 score of 81%.
