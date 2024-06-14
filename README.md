@@ -10,7 +10,8 @@ This project establishes the positive correlation between financial contribution
 # Results
 Among the 5 models (neural network, random forest, gradient boosting, support vector machine, and an ensemble model), the Random Forest model perfromed the best with an F1-socre of 81%.
 
-![Precision, Recall,   F1-Scores of Predictions on the 2020 Federal General Senate Elections](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/45d69a59-4129-4a18-b9d3-78c9078babcd)
+![Precision, Recall,   F1-Score of 5 Model's Predictions for the 2020 Federal General Senate Elections (1)](https://github.com/joel-day/Election-Forecasting-with-Artifial-Intelligence/assets/105340191/9c63b057-a8a7-490c-a6f8-7c246f93492b)
+
 
 # Model Features:
 ### Sum of Contributions from Individuals, Age, Incumbency, Party, Multi-Candidate Committee Participation (FEC), Unemployment, & Voter Education Inequality
