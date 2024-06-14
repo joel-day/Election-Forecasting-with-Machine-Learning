@@ -1,9 +1,6 @@
 # Buying Elections - Joel Raymond Day
 ### https://www.linkedin.com/in/joelrday/
 
-![linkedin zoomed](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/93b885eb-9f8f-4048-a521-a22d7796d7d3)
-
-
 # What is this all about?
 This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
 
