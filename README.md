@@ -1,12 +1,14 @@
 # Buying Elections - Joel Raymond Day
 ### https://www.linkedin.com/in/joelrday/
 
+![linkedin zoomed](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/93b885eb-9f8f-4048-a521-a22d7796d7d3)
 
 
 # What is this all about?
 This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
 
-![Sample Vote Share vs  log(Total Contributions Received from Individuals X Months Before Election in Federal Senate Elections 2016-2020](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/fe70ae99-6813-4e19-91ca-e57638bdeae2)
+![Sample Vote Share vs  log(Total Contributions Received from Individuals_ X Months Before Election in Federal Senate Elections 2016-2020](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/7ea79aee-af1c-4627-98c6-384c497ee959)
+
 
 # Results
 Among the 5 models (neural network, random forest, gradient boosting, support vector machine, and an ensemble model), the Random Forest model perfromed the best with an F1-socre of 81%.
