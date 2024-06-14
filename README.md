@@ -7,7 +7,7 @@
 This project establishes the positive correlation between financial contributions from individuals and vote share. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
 
 # Results
-Among the 5 models (neural network, random forest, gradient boosting, support vector machine, and an ensemble model), the Random Forest model perfromed trhe best with an F1-socre of 82%. It correclty identifed 82% of the candidates that obtained 50% vote share.
+Among the 5 models (neural network, random forest, gradient boosting, support vector machine, and an ensemble model), the Random Forest model perfromed the best with an F1-socre of 81%.
 
 # Model Features:
 ### Sum of Contributions from Individuals, Unemployment, Voter Education Inequality, 
