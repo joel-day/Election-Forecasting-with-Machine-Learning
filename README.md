@@ -3,7 +3,7 @@
 ### https://www.linkedin.com/in/joelrday/
 
 # What is this all about?
-This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
+This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize data on social media, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
 
 ![Sample Vote Share vs  log(Total Contributions Received from Individuals_ X Months Before Election in Federal Senate Elections 2016-2020](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/7ea79aee-af1c-4627-98c6-384c497ee959)
 
