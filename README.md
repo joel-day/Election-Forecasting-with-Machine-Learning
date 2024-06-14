@@ -5,10 +5,12 @@
 
 # What is this all about?
 This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize social media information, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
+
 ![Sample Vote Share vs  log(Total Contributions Received from Individuals X Months Before Election in Federal Senate Elections 2016-2020](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/fe70ae99-6813-4e19-91ca-e57638bdeae2)
 
 # Results
 Among the 5 models (neural network, random forest, gradient boosting, support vector machine, and an ensemble model), the Random Forest model perfromed the best with an F1-socre of 81%.
+
 ![Precision, Recall,   F1-Scores of Predictions on the 2020 Federal General Senate Elections](https://github.com/joel-day/Predicting-U.S.-Federal-Senate-Elections/assets/105340191/45d69a59-4129-4a18-b9d3-78c9078babcd)
 
 # Model Features:
