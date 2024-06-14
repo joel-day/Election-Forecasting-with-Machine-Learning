@@ -1,4 +1,5 @@
-# Buying Elections - Joel Raymond Day
+# Buying Elections - 
+## Joel Raymond Day JUN 2024
 ### https://www.linkedin.com/in/joelrday/
 
 # What is this all about?
