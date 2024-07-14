@@ -1,6 +1,4 @@
 # Buying Elections
-## Joel Raymond Day, https://www.linkedin.com/in/joelrday/
-
 # What is this all about?
 This project establishes the positive correlation between financial contributions from individuals and vote share in U.S. federal senate elections. The best election forecasting models in recent decades are trained on a combination of polling data and a hand-selected bundle of supplementary features. While traditional polling processes are being replaced by methods that utilize data on social media, the supplementary bundle of features remains necessary for optimal performance – this project provides that bundle. 
 
